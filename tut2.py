@@ -21,6 +21,8 @@ def bootstarp():
 
 app.run(debug = True )
 
+print("Hello World")
+
 
 
 

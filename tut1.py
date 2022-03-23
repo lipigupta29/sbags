@@ -12,3 +12,5 @@ def lipi():
     name = 'lipi'
     return render_template('about.html',name = name)
 app.run(debug = False )
+
+print("Hello world")
