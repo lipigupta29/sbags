@@ -16,6 +16,4 @@ def contact():
 app.run(debug=True)
 
 print("hi go")
-print("lipi")
-print("khjggggg")
-print("lipiddd")
+print("la ka la ka ")
