@@ -14,4 +14,9 @@ def lipi():
 app.run(debug = False )
 
 print("Hello world")
+<<<<<<< Updated upstream
 print("chchchchchchchc")
+=======
+print("KKK")
+print("lakakalalakakala")
+>>>>>>> Stashed changes

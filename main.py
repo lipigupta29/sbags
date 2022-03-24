@@ -16,4 +16,8 @@ def contact():
 app.run(debug=True)
 
 print("hi go")
+<<<<<<< Updated upstream
 print("la ka la ka ")
+=======
+print("llallallalla")
+>>>>>>> Stashed changes
